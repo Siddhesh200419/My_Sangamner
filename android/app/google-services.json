@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20774106137",
+    "project_id": "community-driven-app-my-san",
+    "storage_bucket": "community-driven-app-my-san.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20774106137:android:d566c44025e0c7d167a688",
+        "android_client_info": {
+          "package_name": "com.example.my_sangamner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8F4JXH6PuVrRi1YArYmERJ64ZXLuCP_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
